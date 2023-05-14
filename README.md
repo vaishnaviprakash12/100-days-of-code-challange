@@ -12,3 +12,6 @@ Day-2:-
 https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 
 https://leetcode.com/problems/sliding-window-maximum/
+
+Day-3:-
+https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
