@@ -15,3 +15,5 @@ https://leetcode.com/problems/sliding-window-maximum/
 
 Day-3:-
 https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+
+https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/
