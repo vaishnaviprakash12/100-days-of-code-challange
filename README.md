@@ -25,3 +25,5 @@ Day-5:-
 https://leetcode.com/problems/maximum-average-subarray-i/
 
 https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
+
+https://leetcode.com/problems/range-sum-of-bst/description/
