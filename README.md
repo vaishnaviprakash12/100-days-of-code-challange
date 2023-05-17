@@ -32,3 +32,5 @@ Day-6:-
 https://leetcode.com/problems/power-of-three/description/
 
 https://leetcode.com/problems/elimination-game/description/
+
+https://leetcode.com/problems/powx-n/description/
