@@ -30,3 +30,5 @@ https://leetcode.com/problems/range-sum-of-bst/description/
 
 Day-6:-
 https://leetcode.com/problems/power-of-three/description/
+
+https://leetcode.com/problems/elimination-game/description/
