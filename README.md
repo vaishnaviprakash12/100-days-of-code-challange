@@ -8,18 +8,22 @@ https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 
 https://leetcode.com/problems/insert-into-a-binary-search-tree/
 
+
 Day-2:-
 https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 
 https://leetcode.com/problems/sliding-window-maximum/
+
 
 Day-3:-
 https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 
 https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/
 
+
 Day-4:-
 https://leetcode.com/problems/recover-binary-search-tree/description/
+
 
 Day-5:-
 https://leetcode.com/problems/maximum-average-subarray-i/
@@ -28,6 +32,7 @@ https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater
 
 https://leetcode.com/problems/range-sum-of-bst/description/
 
+
 Day-6:-
 https://leetcode.com/problems/power-of-three/description/
 
@@ -35,9 +40,13 @@ https://leetcode.com/problems/elimination-game/description/
 
 https://leetcode.com/problems/powx-n/description/
 
+
 Day-7:-
 https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 
+
 Day-8:-
 https://leetcode.com/problems/richest-customer-wealth/description/
+
+https://leetcode.com/problems/n-queens/description/
 
