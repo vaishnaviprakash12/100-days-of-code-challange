@@ -38,3 +38,6 @@ https://leetcode.com/problems/powx-n/description/
 Day-7:-
 https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 
+Day-8:-
+https://leetcode.com/problems/richest-customer-wealth/description/
+
