@@ -50,3 +50,11 @@ https://leetcode.com/problems/richest-customer-wealth/description/
 
 https://leetcode.com/problems/n-queens/description/
 
+Day-9:-
+https://leetcode.com/problems/n-queens-ii/description/
+
+https://leetcode.com/problems/combination-sum/description/
+
+https://leetcode.com/problems/combinations/description/
+
+
