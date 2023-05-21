@@ -61,4 +61,9 @@ https://leetcode.com/problems/combination-sum-ii/description/
 
 https://leetcode.com/problems/transpose-matrix/description/
 
+Day-10:-
+https://leetcode.com/problems/combination-sum-iii/
+
+https://leetcode.com/problems/permutations-ii/
+
 
