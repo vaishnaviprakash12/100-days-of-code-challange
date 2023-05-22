@@ -66,4 +66,9 @@ https://leetcode.com/problems/combination-sum-iii/
 
 https://leetcode.com/problems/permutations-ii/
 
+Day-11
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
+
+https://leetcode.com/problems/subarray-product-less-than-k/
+
 
