@@ -76,4 +76,7 @@ https://leetcode.com/problems/largest-local-values-in-a-matrix/description/
 
 https://leetcode.com/problems/max-consecutive-ones-iii/
 
+https://leetcode.com/problems/delete-greatest-value-in-each-row/description/
+
+https://leetcode.com/problems/row-with-maximum-ones/
 
