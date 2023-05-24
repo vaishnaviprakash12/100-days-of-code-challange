@@ -80,3 +80,20 @@ https://leetcode.com/problems/delete-greatest-value-in-each-row/description/
 
 https://leetcode.com/problems/row-with-maximum-ones/
 
+Day-13
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+
+https://leetcode.com/problems/projection-area-of-3d-shapes/description/
+
+https://leetcode.com/problems/toeplitz-matrix/description/
+
+https://leetcode.com/problems/shift-2d-grid/description/
+
+https://leetcode.com/problems/check-if-matrix-is-x-matrix/description/
+
+https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/description/
+
+https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/
+
+https://leetcode.com/problems/reshape-the-matrix/description/
+
