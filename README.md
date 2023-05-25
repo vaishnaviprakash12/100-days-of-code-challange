@@ -97,3 +97,6 @@ https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/
 
 https://leetcode.com/problems/reshape-the-matrix/description/
 
+Day:-14
+https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/
+
