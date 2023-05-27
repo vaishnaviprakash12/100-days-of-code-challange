@@ -120,3 +120,8 @@ https://leetcode.com/problems/sort-the-matrix-diagonally/description/
 
 https://leetcode.com/problems/convert-1d-array-into-2d-array/description/
 
+Day:-16:-
+
+https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/description/
+
+
