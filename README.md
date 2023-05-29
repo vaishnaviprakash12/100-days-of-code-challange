@@ -128,4 +128,8 @@ Day-17:-
 
 https://leetcode.com/problems/sort-array-by-parity-ii/description/
 
+Day-18:-
+
+https://leetcode.com/problems/design-parking-system/description/
+
 
