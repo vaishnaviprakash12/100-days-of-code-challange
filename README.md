@@ -132,4 +132,6 @@ Day-18:-
 
 https://leetcode.com/problems/design-parking-system/description/
 
+Day-19:-
 
+https://leetcode.com/problems/valid-sudoku/description/
