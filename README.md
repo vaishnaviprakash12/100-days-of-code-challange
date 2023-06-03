@@ -154,4 +154,8 @@ Day-23:-
 
 https://leetcode.com/problems/spiral-matrix-ii/description/
 
+https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/
+
+https://leetcode.com/problems/sum-in-a-matrix/description/
+
 
