@@ -158,4 +158,17 @@ https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/descri
 
 https://leetcode.com/problems/sum-in-a-matrix/description/
 
+Day-24:-
+
+https://leetcode.com/problems/last-stone-weight/description/
+
+https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/
+
+https://leetcode.com/problems/relative-ranks/description/
+
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/
+
+https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/description/
+
+
 
