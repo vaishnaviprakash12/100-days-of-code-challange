@@ -176,4 +176,7 @@ Day-25:-
 
 https://leetcode.com/problems/sort-an-array/description/
 
+https://leetcode.com/problems/sort-array-by-parity/description/
+
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 
