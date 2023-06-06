@@ -184,4 +184,8 @@ Day-26:-
 
 https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/
 
+https://leetcode.com/problems/convert-bst-to-greater-tree/description/
 
+https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/
+
+https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
