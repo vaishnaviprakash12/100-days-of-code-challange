@@ -180,3 +180,8 @@ https://leetcode.com/problems/sort-array-by-parity/description/
 
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 
+Day-26:-
+
+https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/
+
+
