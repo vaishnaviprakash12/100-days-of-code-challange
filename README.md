@@ -189,3 +189,9 @@ https://leetcode.com/problems/convert-bst-to-greater-tree/description/
 https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/
 
 https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/
+
+Day-27:-
+
+https://leetcode.com/problems/merge-sorted-array/description/
+
+https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/
