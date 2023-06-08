@@ -195,3 +195,7 @@ Day-27:-
 https://leetcode.com/problems/merge-sorted-array/description/
 
 https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/
+
+Day-28:-
+
+https://leetcode.com/problems/k-th-smallest-prime-fraction/description/
