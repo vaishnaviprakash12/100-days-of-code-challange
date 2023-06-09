@@ -199,3 +199,11 @@ https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 Day-28:-
 
 https://leetcode.com/problems/k-th-smallest-prime-fraction/description/
+
+https://leetcode.com/problems/maximum-product-subarray/description/
+
+Day-29:-
+
+https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/
+
+https://leetcode.com/problems/merge-k-sorted-lists/description/
