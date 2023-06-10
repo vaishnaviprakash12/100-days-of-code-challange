@@ -207,3 +207,11 @@ Day-29:-
 https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/description/
 
 https://leetcode.com/problems/merge-k-sorted-lists/description/
+
+Day-30:-
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
+https://leetcode.com/problems/majority-element/
+
+https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
