@@ -226,3 +226,5 @@ Day-32:-
 
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 
+https://leetcode.com/problems/minimum-sum-of-squared-difference/description/
+
