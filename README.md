@@ -221,3 +221,8 @@ Day-31:-
 https://leetcode.com/problems/product-of-array-except-self/description/
 
 https://leetcode.com/problems/find-k-closest-elements/
+
+Day-32:-
+
+https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
+
