@@ -228,3 +228,9 @@ https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
 
 https://leetcode.com/problems/minimum-sum-of-squared-difference/description/
 
+Day-33:-
+
+https://leetcode.com/problems/design-hashset/description/
+
+https://leetcode.com/problems/intersection-of-two-arrays/description/
+
