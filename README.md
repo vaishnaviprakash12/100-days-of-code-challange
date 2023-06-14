@@ -240,5 +240,9 @@ https://leetcode.com/problems/subarray-sum-equals-k/description/
 
 https://leetcode.com/problems/sum-of-unique-elements/description/
 
+Day-34:-
+
+https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/
+
 
 
