@@ -248,6 +248,8 @@ Day-35:-
 
 https://leetcode.com/problems/4sum/description/
 
+https://leetcode.com/problems/two-sum/description/
+
 
 
 
