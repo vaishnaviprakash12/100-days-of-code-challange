@@ -250,6 +250,17 @@ https://leetcode.com/problems/4sum/description/
 
 https://leetcode.com/problems/two-sum/description/
 
+Day-36:-
 
+https://leetcode.com/problems/decode-xored-array/description/
 
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/
+
+https://leetcode.com/problems/xor-operation-in-an-array/description/
+
+https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/
+
+https://leetcode.com/problems/hamming-distance/description/
+
+https://leetcode.com/problems/number-complement/
 
