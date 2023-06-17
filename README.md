@@ -264,3 +264,13 @@ https://leetcode.com/problems/hamming-distance/description/
 
 https://leetcode.com/problems/number-complement/
 
+Day-37:-
+
+https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/
+
+https://leetcode.com/problems/binary-gap/description/
+
+https://leetcode.com/problems/number-of-even-and-odd-bits/description/
+
+https://leetcode.com/problems/binary-number-with-alternating-bits/description/
+
