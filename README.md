@@ -280,3 +280,17 @@ https://leetcode.com/problems/power-of-four/
 
 https://leetcode.com/problems/complement-of-base-10-integer/
 
+https://leetcode.com/problems/power-of-two/
+
+https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+
+https://leetcode.com/problems/maximum-xor-after-operations/
+
+https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
+
+https://leetcode.com/problems/subsets/
+
+https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
+
+https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
+
