@@ -274,3 +274,9 @@ https://leetcode.com/problems/number-of-even-and-odd-bits/description/
 
 https://leetcode.com/problems/binary-number-with-alternating-bits/description/
 
+Day-38:-
+
+https://leetcode.com/problems/power-of-four/
+
+https://leetcode.com/problems/complement-of-base-10-integer/
+
