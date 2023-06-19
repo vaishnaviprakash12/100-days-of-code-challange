@@ -298,3 +298,5 @@ Day-39:-
 
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/
 
+https://leetcode.com/problems/find-xor-beauty-of-array/description/
+
