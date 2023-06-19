@@ -294,3 +294,7 @@ https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
 
 https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
 
+Day-39:-
+
+https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/
+
