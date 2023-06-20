@@ -304,3 +304,9 @@ Day-40:-
 
 https://leetcode.com/problems/single-number-ii/description/
 
+https://leetcode.com/problems/single-number-iii/description/
+
+https://leetcode.com/problems/neighboring-bitwise-xor/
+
+https://leetcode.com/problems/single-number-iii/
+
