@@ -1,4 +1,4 @@
-# 100-days-of-code-challange
+# 100-days-of-code-challange 
 Day-1:-
 
 https://leetcode.com/problems/monotonic-array/
@@ -308,5 +308,5 @@ https://leetcode.com/problems/single-number-iii/description/
 
 https://leetcode.com/problems/neighboring-bitwise-xor/
 
-https://leetcode.com/problems/single-number-iii/
+https://leetcode.com/problems/sum-of-two-integers/
 
