@@ -300,3 +300,7 @@ https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/descriptio
 
 https://leetcode.com/problems/find-xor-beauty-of-array/description/
 
+Day-40:-
+
+https://leetcode.com/problems/single-number-ii/description/
+
