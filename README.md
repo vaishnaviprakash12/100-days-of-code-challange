@@ -310,3 +310,9 @@ https://leetcode.com/problems/neighboring-bitwise-xor/
 
 https://leetcode.com/problems/sum-of-two-integers/
 
+Day-41:-
+
+https://leetcode.com/problems/total-hamming-distance/description/
+
+https://leetcode.com/problems/subsets-ii/
+
