@@ -1,4 +1,4 @@
-# 100-days-of-code-challange #drgviswanathanchallenge
+# 100-days-of-code-challange #drgviswanathan challenge
 Day-1:-
 
 https://leetcode.com/problems/monotonic-array/
