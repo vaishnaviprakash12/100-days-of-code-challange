@@ -318,3 +318,7 @@ https://leetcode.com/problems/subsets-ii/
 
 https://leetcode.com/problems/find-the-duplicate-number/
 
+Day-42:-
+
+https://leetcode.com/problems/gray-code/
+
