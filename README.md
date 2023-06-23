@@ -322,3 +322,18 @@ Day-42:-
 
 https://leetcode.com/problems/gray-code/
 
+Day-43:-
+
+https://leetcode.com/problems/balanced-binary-tree/
+
+https://leetcode.com/problems/find-the-distinct-difference-array/description/
+
+https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/
+
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/
+
+https://leetcode.com/problems/unique-number-of-occurrences/description/
+
+https://leetcode.com/problems/find-lucky-integer-in-an-array/description/
+
+
