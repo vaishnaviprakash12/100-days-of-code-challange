@@ -336,4 +336,10 @@ https://leetcode.com/problems/unique-number-of-occurrences/description/
 
 https://leetcode.com/problems/find-lucky-integer-in-an-array/description/
 
+Day:-44
+
+https://leetcode.com/problems/missing-number/description/
+
+https://leetcode.com/problems/find-subarrays-with-equal-sum/
+
 
