@@ -342,4 +342,12 @@ https://leetcode.com/problems/missing-number/description/
 
 https://leetcode.com/problems/find-subarrays-with-equal-sum/
 
+Day:-45
+
+https://leetcode.com/problems/distribute-candies/
+
+https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/
+
+https://leetcode.com/problems/number-of-unequal-triplets-in-array/description/
+
 
