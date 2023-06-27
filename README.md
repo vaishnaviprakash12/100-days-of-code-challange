@@ -350,4 +350,10 @@ https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/
 
 https://leetcode.com/problems/number-of-unequal-triplets-in-array/description/
 
+Day:-46
+
+https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
+
+https://leetcode.com/problems/two-out-of-three/
+
 
