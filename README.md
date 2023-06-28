@@ -356,4 +356,12 @@ https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 
 https://leetcode.com/problems/two-out-of-three/
 
+Day:-47
+
+https://leetcode.com/problems/rank-transform-of-an-array/
+
+https://leetcode.com/problems/contains-duplicate-ii/
+
+https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/
+
 
