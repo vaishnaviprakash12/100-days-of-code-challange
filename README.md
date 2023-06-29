@@ -364,4 +364,10 @@ https://leetcode.com/problems/contains-duplicate-ii/
 
 https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/
 
+Day:-48
+
+https://leetcode.com/problems/longest-harmonious-subsequence/description/
+
+https://leetcode.com/problems/continuous-subarray-sum/
+
 
