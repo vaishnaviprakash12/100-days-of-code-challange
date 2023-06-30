@@ -370,4 +370,14 @@ https://leetcode.com/problems/longest-harmonious-subsequence/description/
 
 https://leetcode.com/problems/continuous-subarray-sum/
 
+Day:-49
+
+https://leetcode.com/problems/check-if-the-number-is-fascinating/
+
+https://leetcode.com/problems/most-frequent-even-element/
+
+https://leetcode.com/problems/set-mismatch/
+
+https://leetcode.com/problems/minimum-common-value/
+
 
