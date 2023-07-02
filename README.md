@@ -384,4 +384,14 @@ Day:-50
 
 https://leetcode.com/problems/roman-to-integer/description/
 
+Day:-51
+
+https://leetcode.com/problems/check-if-n-and-its-double-exist/
+
+https://leetcode.com/problems/finding-3-digit-even-numbers/
+
+https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
+
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
+
 
