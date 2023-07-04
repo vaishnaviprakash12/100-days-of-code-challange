@@ -400,4 +400,12 @@ Day:-52
 
 https://leetcode.com/problems/set-matrix-zeroes/description/
 
+Day:-53
+
+https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+
+https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+
+https://leetcode.com/problems/linked-list-components/description/
+
 
