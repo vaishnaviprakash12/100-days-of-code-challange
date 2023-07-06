@@ -408,4 +408,10 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 
 https://leetcode.com/problems/linked-list-components/description/
 
+Day:-54
+
+https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
+
+https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
+
 
