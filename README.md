@@ -426,4 +426,9 @@ Day:-56
 
 https://leetcode.com/problems/maximum-erasure-value/description/
 
+Day:-57
+
+https://leetcode.com/problems/minimum-absolute-difference/
+
+https://leetcode.com/problems/neither-minimum-nor-maximum/
 
