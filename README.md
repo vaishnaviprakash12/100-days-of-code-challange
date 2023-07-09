@@ -432,3 +432,9 @@ https://leetcode.com/problems/minimum-absolute-difference/
 
 https://leetcode.com/problems/neither-minimum-nor-maximum/
 
+Day:-58
+
+https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
+
+https://leetcode.com/problems/squares-of-a-sorted-array/
+
