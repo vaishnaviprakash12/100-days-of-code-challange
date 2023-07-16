@@ -464,3 +464,8 @@ Day:-64
 
 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
 
+Day:-65
+
+https://leetcode.com/problems/plus-one/description/
+
+
