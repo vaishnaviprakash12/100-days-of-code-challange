@@ -472,4 +472,6 @@ Day:-66
 
 https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/
 
+https://leetcode.com/problems/replace-elements-in-an-array/description/
+
 
