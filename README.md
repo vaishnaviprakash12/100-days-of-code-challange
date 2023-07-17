@@ -468,4 +468,8 @@ Day:-65
 
 https://leetcode.com/problems/plus-one/description/
 
+Day:-66
+
+https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/description/
+
 
