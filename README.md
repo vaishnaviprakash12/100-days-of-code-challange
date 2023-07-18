@@ -474,4 +474,9 @@ https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/desc
 
 https://leetcode.com/problems/replace-elements-in-an-array/description/
 
+Day:-67
+
+https://leetcode.com/problems/valid-palindrome/
+
+https://leetcode.com/problems/reverse-string/
 
