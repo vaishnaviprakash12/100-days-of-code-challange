@@ -480,3 +480,7 @@ https://leetcode.com/problems/valid-palindrome/
 
 https://leetcode.com/problems/reverse-string/
 
+Day:-68
+
+https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+
