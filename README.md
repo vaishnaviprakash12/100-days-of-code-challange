@@ -484,3 +484,9 @@ Day:-68
 
 https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 
+Day:-69
+
+https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
+
+https://leetcode.com/problems/reverse-integer/description/
+
