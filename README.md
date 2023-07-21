@@ -490,3 +490,13 @@ https://leetcode.com/problems/reveal-cards-in-increasing-order/description/
 
 https://leetcode.com/problems/reverse-integer/description/
 
+Day:-70
+
+https://leetcode.com/problems/reverse-words-in-a-string/
+
+https://leetcode.com/problems/remove-palindromic-subsequences/
+
+https://leetcode.com/problems/goal-parser-interpretation/
+
+https://leetcode.com/problems/replace-all-digits-with-characters/
+
