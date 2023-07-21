@@ -500,3 +500,5 @@ https://leetcode.com/problems/goal-parser-interpretation/
 
 https://leetcode.com/problems/replace-all-digits-with-characters/
 
+https://leetcode.com/problems/time-needed-to-buy-tickets/
+
