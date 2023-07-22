@@ -502,3 +502,13 @@ https://leetcode.com/problems/replace-all-digits-with-characters/
 
 https://leetcode.com/problems/time-needed-to-buy-tickets/
 
+Day:-71
+
+https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
+
+https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+
+https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+
+https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
+
