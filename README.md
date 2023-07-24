@@ -512,3 +512,25 @@ https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-co
 
 https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
 
+Day:-72
+
+https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+https://leetcode.com/problems/sorting-the-sentence/
+
+https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+
+https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+
+Day:-73
+
+https://leetcode.com/problems/to-lower-case/
+
+https://leetcode.com/problems/sort-the-people/
+
+
+
+
+
+
+
