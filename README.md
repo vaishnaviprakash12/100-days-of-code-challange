@@ -528,6 +528,16 @@ https://leetcode.com/problems/to-lower-case/
 
 https://leetcode.com/problems/sort-the-people/
 
+Day:-74
+
+https://leetcode.com/problems/truncate-sentence/description/
+
+https://leetcode.com/problems/merge-in-between-linked-lists/description/
+
+https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+https://leetcode.com/problems/count-asterisks/description/
+
 
 
 
