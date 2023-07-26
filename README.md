@@ -538,6 +538,15 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/description/
 
 https://leetcode.com/problems/count-asterisks/description/
 
+Day:-75
+
+https://leetcode.com/problems/merge-strings-alternately/
+
+https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+
+https://leetcode.com/problems/number-of-senior-citizens/
+
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 
 
