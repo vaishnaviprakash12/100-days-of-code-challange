@@ -552,7 +552,11 @@ Day:-76
 
 https://leetcode.com/problems/valid-anagram/
 
+Day:-77
 
+https://leetcode.com/problems/linked-list-cycle-ii/
+
+https://leetcode.com/problems/reverse-prefix-of-word/
 
 
 
