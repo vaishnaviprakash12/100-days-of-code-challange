@@ -558,6 +558,10 @@ https://leetcode.com/problems/linked-list-cycle-ii/
 
 https://leetcode.com/problems/reverse-prefix-of-word/
 
+Day:-78
 
+https://leetcode.com/problems/alternating-digit-sum/description/
 
+https://leetcode.com/problems/sum-multiples/description/
 
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
