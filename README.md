@@ -565,3 +565,17 @@ https://leetcode.com/problems/alternating-digit-sum/description/
 https://leetcode.com/problems/sum-multiples/description/
 
 https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+Day:-79
+
+https://leetcode.com/problems/destination-city/description/
+
+https://leetcode.com/problems/determine-if-string-halves-are-alike/description/
+
+https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
+
+https://leetcode.com/problems/jewels-and-stones/description/
+
+https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/
+
+https://leetcode.com/problems/lexicographically-smallest-palindrome/
