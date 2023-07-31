@@ -579,3 +579,11 @@ https://leetcode.com/problems/jewels-and-stones/description/
 https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/
 
 https://leetcode.com/problems/lexicographically-smallest-palindrome/
+
+Day:-80
+
+https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+
+https://leetcode.com/problems/first-letter-to-appear-twice/
+
+https://leetcode.com/problems/delete-columns-to-make-sorted/
