@@ -589,3 +589,11 @@ https://leetcode.com/problems/first-letter-to-appear-twice/
 https://leetcode.com/problems/delete-columns-to-make-sorted/
 
 https://leetcode.com/problems/merge-nodes-in-between-zeros/
+
+Day:-81
+
+https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
+
+https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
+
+https://leetcode.com/problems/copy-list-with-random-pointer/
