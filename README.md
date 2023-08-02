@@ -597,3 +597,16 @@ https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-va
 https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 
 https://leetcode.com/problems/copy-list-with-random-pointer/
+
+Day:-82
+
+https://leetcode.com/problems/decode-the-message/description/
+
+https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/
+
+https://leetcode.com/problems/kth-distinct-string-in-an-array/description/
+
+https://leetcode.com/problems/path-crossing/description/
+
+https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/
+
