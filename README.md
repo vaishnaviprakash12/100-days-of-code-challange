@@ -639,3 +639,15 @@ Day:-88
 https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 
 https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+Day:-89
+
+https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/
+
+https://leetcode.com/problems/rotate-list/description/
+
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/
+
+https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+
+https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
