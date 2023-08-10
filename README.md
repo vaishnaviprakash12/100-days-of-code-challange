@@ -655,3 +655,5 @@ https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
 Day:-90
 
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+
+https://leetcode.com/problems/maximum-number-of-words-you-can-type/
