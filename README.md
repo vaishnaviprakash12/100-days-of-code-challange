@@ -657,3 +657,19 @@ Day:-90
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
 https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+
+Day:-91
+
+https://leetcode.com/problems/shortest-distance-to-a-character/
+
+https://leetcode.com/problems/split-strings-by-separator/
+
+https://leetcode.com/problems/minimize-string-length/
+
+https://leetcode.com/problems/coin-change-ii/
+
+https://leetcode.com/problems/count-prefixes-of-a-given-string/
+
+https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+
+https://leetcode.com/problems/fizz-buzz/
