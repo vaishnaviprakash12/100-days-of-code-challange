@@ -687,8 +687,6 @@ https://leetcode.com/problems/count-common-words-with-one-occurrence/description
 
 https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/description/
 
-Day:-94
-
 https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
