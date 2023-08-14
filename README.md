@@ -690,3 +690,7 @@ https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/
 https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+
+Day:-94
+
+https://leetcode.com/problems/count-pairs-of-similar-strings/
