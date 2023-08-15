@@ -694,3 +694,13 @@ https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 Day:-94
 
 https://leetcode.com/problems/count-pairs-of-similar-strings/
+
+Day:-95
+
+https://leetcode.com/problems/uncommon-words-from-two-sentences/
+
+https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
+
+https://leetcode.com/problems/partition-list/
+
+https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
