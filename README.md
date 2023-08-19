@@ -716,3 +716,7 @@ https://leetcode.com/problems/01-matrix/description/
 Day:-98
 
 https://leetcode.com/problems/maximal-network-rank/description/
+
+Day:-99
+
+https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
